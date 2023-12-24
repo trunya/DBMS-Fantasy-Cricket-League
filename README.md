@@ -1,6 +1,7 @@
 # DBMS-Fantasy-Cricket-League
 A simple Fantasy Cricket Game made as a DBMS project for BTech CSE
-Backend - php, mySQL Frontend - HTML/CSS 
+- Backend - php, mySQL
+- Frontend - HTML/CSS 
 
 # Software required
 - xampp - To run a server for php and MySQL
