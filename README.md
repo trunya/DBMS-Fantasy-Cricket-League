@@ -11,7 +11,7 @@ A simple Fantasy Cricket Game made as a DBMS project for BTech CSE
 # Pages implemented 
  - Login / Sign up
 -  Create Fantasy team 
-  -View leaderboard
+- View leaderboard
  - View upcoming matches 
 -  View My details
 -  View My team
