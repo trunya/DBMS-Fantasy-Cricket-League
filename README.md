@@ -21,7 +21,7 @@ A simple Fantasy Cricket Game made as a DBMS project for BTech CSE
  - View leaderboard
  - Add contests
  - Schedule matches 
-Screenshots of the pages and the sequence are all available in the report.
+Screenshots of the pages are available under screenshots and the sequence can be seen in the report.
 
 # To run this code
 - Download all php files and the background images
