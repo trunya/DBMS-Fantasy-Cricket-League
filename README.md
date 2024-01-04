@@ -1,5 +1,5 @@
 # DBMS-Fantasy-Cricket-League
-A simple Fantasy Cricket Game made as a DBMS project for BTech CSE
+A simple Fantasy Cricket Game made as a DBMS project for BTech CSE 5th Semester
 - Backend - php, mySQL
 - Frontend - HTML/CSS 
 
