@@ -20,7 +20,8 @@ A simple Fantasy Cricket Game made as a DBMS project for BTech CSE
 -  View all users
  - View leaderboard
  - Add contests
- - Schedule matches 
+ - Schedule matches
+ 
 Screenshots of the pages are available under screenshots and the sequence can be seen in the report.
 
 # To run this code
