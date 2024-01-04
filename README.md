@@ -21,3 +21,15 @@ A simple Fantasy Cricket Game made as a DBMS project for BTech CSE
  - View leaderboard
  - Add contests
  - Schedule matches 
+Screenshots of the pages and the sequence are all available in the report.
+
+# To run this code
+- Download all php files and the background images
+- Download and set up xampp (multiple youtube videos available)
+- Move all the downloaded files to xampp > htdocs folder
+- Change the username/pw in the connection code to your MySQL username/pw
+- Open the xampp control panel and start Apache and MySQL
+- Open localhost on your browser with your folder name
+- These steps should work and the Fantasy Cricket League should be working
+  
+  [Dont forget to update matches in the calendar for that particular date as the system works on current date]
